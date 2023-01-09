@@ -17,7 +17,7 @@ public class TesteEscritaFileWriter {
 		bw.write("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod");
 		bw.newLine();
 		bw.newLine();
-		bw.write("asfasdfsafdas dfs sdf asf assdß");
+		bw.write("asfasdfsafdas dfs sdf asf TesteEscritaFileWriter");
 				
 		bw.close();
 		

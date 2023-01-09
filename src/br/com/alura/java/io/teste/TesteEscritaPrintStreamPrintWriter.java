@@ -24,7 +24,7 @@ public class TesteEscritaPrintStreamPrintWriter {
 		ps.println();
 		ps.println();
 		ps.println();
-		ps.println("asfasdfsafdas dfs sdf asf assdß");
+		ps.println("asfasdfsafdas dfs sdf asf TesteEscritaPrintStreamPrintWriter");
 				
 		ps.close();
 		
